@@ -8,7 +8,7 @@ Regression is the method which measures the average relationship between two or 
 
 We will build a linear regression model to predict the salary of a person on the basis of years of experience from scratch. You can download the dataset from the link given below. 
 
-' python
+'python
 dataset = pd.read_csv('salaries.csv')
 
 #Scatter Plot
