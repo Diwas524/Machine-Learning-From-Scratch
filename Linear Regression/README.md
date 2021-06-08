@@ -8,7 +8,7 @@ Regression is the method which measures the average relationship between two or 
 
 We will build a linear regression model to predict the salary of a person on the basis of years of experience from scratch. You can download the dataset from the link given below. 
 
-'python
+```python
 dataset = pd.read_csv('salaries.csv')
 
 #Scatter Plot
@@ -20,4 +20,8 @@ plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 plt.title('Salary Prediction Curves')
 plt.show()
-'
+```
+
+![](https://aihubprojects.com/wp-content/uploads/2020/06/rsz_screenshot_from_2020-06-22_15-19-44.png)
+
+[Read More..](https://aihubprojects.com/linear-regression-from-scratch/)
